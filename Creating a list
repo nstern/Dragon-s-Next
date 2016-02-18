@@ -1,0 +1,5 @@
+# creates list out of user input
+
+lst = raw_input('Enter your data: ')
+lst = eval(lst)
+print lst
